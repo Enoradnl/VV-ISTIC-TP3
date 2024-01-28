@@ -1,3 +1,7 @@
+Yoann Dewilde  
+Enora Danilo  
+M2 ILa - Groupe 1  
+
 # On assertions
 
 Answer the following questions:
