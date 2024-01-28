@@ -1,3 +1,7 @@
+Yoann Dewilde  
+Enora Danilo  
+M2 ILa - Groupe 1  
+
 # Detecting test smells with PMD
 
 In folder [`pmd-documentation`](../pmd-documentation) you will find the documentation of a selection of PMD rules designed to catch test smells.
