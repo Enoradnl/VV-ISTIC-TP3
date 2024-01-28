@@ -1,3 +1,7 @@
+Yoann Dewilde  
+Enora Danilo  
+M2 ILa - Groupe 1  
+
 # Test the Date class
 
 Implement a class `Date` with the interface shown below:
